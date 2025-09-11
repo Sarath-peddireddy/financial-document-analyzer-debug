@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic>=2.4.2
+python-multipart
+python-dotenv
+requests
+reportlab
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pillow
+openai>=1.30.0
